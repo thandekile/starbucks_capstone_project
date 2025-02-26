@@ -40,7 +40,7 @@ The older Adults (ages 46+) potentially could prefer to be more informed, and BO
 Based on the machine learning model, strong predictors include the offer types themselves and the channel through which the offers are presented. This has a massive effect on the outcome of the effect.
 
 **Improvements and Recommendations**
-Feature Engineering: Added interaction features and temporal features to capture more information.
+1. Feature Engineering: Added interaction features and temporal features to capture more information.
 
 2. Data Preprocessing: Scaled and standardized numerical features to improve model performance
 
@@ -50,6 +50,8 @@ README.txt: The file has information pertaining to the synopsis of the project, 
 portfolio.json, profile.json and transcription.json: The files contain respondent data regarding their demographics, occupation, income and other related data. You are not able to infer anyone's personal identity from the file.
 
 **Licensing, Authors, Acknowledgements**
+
 Starbucks - Wikipedia
+
 Udacity nanodegree data set
 https://www.geeksforgeeks.org/read-json-file-using-python/
