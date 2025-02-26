@@ -21,6 +21,7 @@ matplotlib
 seaborn
 
 **Usage**
+
 To use this project, follow these steps:
 
 Clone the repository to your local machine.
