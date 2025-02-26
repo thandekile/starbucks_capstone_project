@@ -39,6 +39,11 @@ The middle-aged adults (ages 26–45) are likely to respond quite positively to 
 The older Adults (ages 46+) potentially could prefer to be more informed, and BOGO offers by virtue of emails to engage with them. This is based on the proportion of customers in the analysis.
 Based on the machine learning model, strong predictors include the offer types themselves and the channel through which the offers are presented. This has a massive effect on the outcome of the effect.
 
+**Improvements and Recommendations**
+Feature Engineering: Added interaction features and temporal features to capture more information.
+
+2. Data Preprocessing: Scaled and standardized numerical features to improve model performance
+
 **File Descriptions**
 Starbucks_Capstone_notebook.ipynb: The Jupyter Notebook has data analysis, visualisations in code form using Python (in pandas)
 README.txt: The file has information pertaining to the synopsis of the project, files, how to navigate the components in the project and other relevant piece of useful information.
